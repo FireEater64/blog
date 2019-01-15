@@ -1,4 +1,4 @@
-baseURL = "http://blog.georgevanburgh.co.uk/"
+baseURL = "https://fireeater64.github.io/blog/"
 languageCode = "en-us"
 title = "George Vanburgh"
 theme = "ghostwriter"
