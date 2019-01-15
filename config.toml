@@ -1,0 +1,23 @@
+baseURL = "http://blog.georgevanburgh.co.uk/"
+languageCode = "en-us"
+title = "George Vanburgh"
+theme = "ghostwriter"
+
+[Author]
+    name = "George Vanburgh"
+    profile = "https://github.com/FireEater64"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = false
+    github = "https://github.com/FireEater64"
+    linkedin = "https://linkedin.com/in/georgevanburgh/"
+    twitter = "https://twitter.com/georgevanburgh"
+    stackoverflow = "https://stackoverflow.com/users/1657432/georgevanburgh"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
