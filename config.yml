@@ -1,0 +1,39 @@
+baseurl: "https://georgevanburgh.github.io/blog/"
+title: "George Vanburgh"
+theme: ghostwriter
+languageCode: en-us
+
+markup:
+  highlight:
+    codeFences: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+author:
+  name: George Vanburgh
+  profile: https://github.com/georgevanburgh
+
+params:
+  mainSections:
+    - posts
+  intro: true
+  headline: George Vanburgh
+  github: "https://github.com/georgevanburgh"
+  twitter: "https://twitter.com/georgevanburgh"
+  linkedin: "https://linkedin.com/in/georgevanburgh/"
+
+# menu:
+#   main:
+#     - name: Blog
+#       url: /
+#       weight: 1
+    # - name: Projects
+    #   url: /project/
+    #   weight: 2
+    # - name: Contact
+    #   url: /page/contact/
+    #   weight: 3
+    # - name: About
+    #   url: /page/about/
+    #   weight: 4

@@ -14,7 +14,7 @@ There is, however, one small obstacle to those of us in Europe and abroad wishin
 
 The first hurdle was getting my hands on a physical device. As mentioned before, they are currently only available to US-based Amazon Prime customers. Fortunately, a number of US-based mail relay companies exist to solve exactly this problem (with [ShipItTo](https://www.shipito.com/) being my personal favourite) and Amazon, as a generous internet company, are all too happy to offer free trials of Amazon Prime (sorry Amazon).
 
-![](/img/amazonPrime-1.PNG)
+![](/blog/img/amazonPrime-1.png)
 
 Amazon Dash buttons are currently available at $4.99 a pop. The cost of three buttons, plus Economy airmail delivery to the UK ended up being ~$20. Not quite the $1-and-free-shipping you'd have found in the US a few months ago - but still pretty affordable.
 
@@ -24,10 +24,10 @@ Once the buttons arrived, the next challenge presented itself. Dash buttons have
 
 <div class="container">
     <div style="float:left;width:49%">
-        <img src="/img/2015-10-18-13-59-48.png">
+        <img src="/blog/img/2015-10-18-13-59-48.png">
     </div>
     <div style="float:right;width:49%">
-        <img src="/img/2015-10-18-14-07-11.png">
+        <img src="/blog/img/2015-10-18-14-07-11.png">
     </div>
 </div>
 
@@ -35,10 +35,10 @@ To kick off the setup process (using Android App v6.0.0.100), simply select 'You
 
 <div class="container">
     <div style="float:left;width:49%">
-        <img src="/img/2015-10-18-14-00-23.png">
+        <img src="/blog/img/2015-10-18-14-00-23.png">
     </div>
     <div style="float:right;width:49%">
-        <img src="/img/2015-10-18-14-10-46.png">
+        <img src="/blog/img/2015-10-18-14-10-46.png">
     </div>
 </div>
 
@@ -51,10 +51,10 @@ Turns out (at least in my case), that trying to configure a Dash button on an in
 
 <div class="container">
     <div style="float:left;width:49%">
-        <img src="/img/2015-10-18-14-16-18.png">
+        <img src="/blog/img/2015-10-18-14-16-18.png">
     </div>
     <div style="float:right;width:49%">
-        <img src="/img/2015-10-18-14-22-03.png">
+        <img src="/blog/img/2015-10-18-14-22-03.png">
     </div>
 </div>
 
