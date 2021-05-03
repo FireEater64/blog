@@ -1,18 +1,18 @@
-baseURL = "https://fireeater64.github.io/blog/"
+baseURL = "https://georgevanburgh.github.io/blog/"
 languageCode = "en-us"
 title = "George Vanburgh"
 theme = "ghostwriter"
 
 [Author]
     name = "George Vanburgh"
-    profile = "https://github.com/FireEater64"
+    profile = "https://github.com/georgevanburgh"
 
 [Taxonomies]
     tag = "tags"
 
 [Params]
     intro = false
-    github = "https://github.com/FireEater64"
+    github = "https://github.com/georgevanburgh"
     linkedin = "https://linkedin.com/in/georgevanburgh/"
     twitter = "https://twitter.com/georgevanburgh"
     stackoverflow = "https://stackoverflow.com/users/1657432/georgevanburgh"
